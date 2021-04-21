@@ -1,6 +1,12 @@
 # swapiProxy
 Express and Node proxy server for the Swapi API
 
+## Created with
+
+npx express-generator 
+(https://expressjs.com/en/starter/generator.html)
+axios ( https://www.npmjs.com/package/axios)
+
 ##
 To set up the server locally. Download or clone the repository. 
 
