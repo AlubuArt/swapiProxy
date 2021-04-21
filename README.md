@@ -2,7 +2,7 @@
 Express and Node proxy server for the Swapi API
 
 ##
-To set up the server locolly. Download or clone the repository. 
+To set up the server locally. Download or clone the repository. 
 
 Run "npm install" to install the dependencies.
 
