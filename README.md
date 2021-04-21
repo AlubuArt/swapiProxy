@@ -13,7 +13,7 @@ To set up the server locally. Download or clone the repository.
 
 Run "npm install" to install the dependencies.
 
-Then run "npm start" to make the server run on port 3001.
+Then run "npm start" or "nodemon api" (if Nodemon is installed globally) to make the server run on port 3001.
 
 Query the proxy api on routes:
 
